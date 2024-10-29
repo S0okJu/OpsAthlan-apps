@@ -1,7 +1,7 @@
 ## OpsAthlan-apps
 
 OpsAthlan 프로젝트에서 사용되는 애플리케이션 모음집입니다.  
-인프라 코드는 [OpsAhtlan 레포지토리](https://github.com/S0okJu/OpsAthlan)를 참고해주세요.
+인프라 코드는 [OpsAthlan 레포지토리](https://github.com/S0okJu/OpsAthlan)를 참고해주세요.
 
 > [!NOTE] 
 > 완성된 코드는 `all` 브랜치에서 확인할 수 있습니다. 
